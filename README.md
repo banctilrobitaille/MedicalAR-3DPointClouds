@@ -1,7 +1,5 @@
 #Medical Augmented Reality <img src="/augmented-reality.png" width="60" vertical-align="bottom">
 
->##3D Point Clouds Creation
-
 #### How to contribute ?
 - [X] Create a branch by feature and/or bug fix
 - [X] Get the code
